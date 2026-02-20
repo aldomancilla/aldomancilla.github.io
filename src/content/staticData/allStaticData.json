@@ -1,19 +1,19 @@
 {
   "profileImage": "/images/efeeleprofile.webp",
-  "profileAlt": "Photo of Fernando Aldair López Ponce (EFEELE) for the blog",
+  "profileAlt": "Photo of Aldo I. Mancilla Huertas",
   "profileLink": "/about-me",
   "profileTitle": "FrontEnd Developer",
-  "profileName": "Fernando López",
-  "github": "https://github.com/EFEELE/NeonMint",
-  "githubText": "Do you like this blog's design?",
+  "profileName": "Aldo Mancilla",
+  "github": "https://github.com/aldomancilla",
+  "githubText": "Do you like this portfolio's design?",
   "portfolioImage": "/images/portfolio.webp",
-  "email": "hello@efeele.dev",
-  "linkedin": "https://www.linkedin.com/in/efeele/",
-  "instagram": "https://www.instagram.com/efeele.dev/",
-  "youtube": "https://www.youtube.com/@efeeledev",
-  "alias": "EFEELE",
-  "contactSectionTitle": "Ready to take your idea to the next level?",
-  "contactSectionSubtitle": "Let's work together.",
+  "email": "aldomancilla@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/aldo-mancilla/",
+  "instagram": "https://www.instagram.com/aldomancilla/",
+  "youtube": "https://www.facebook.com/aldo.mancilla.gt",
+  "alias": "Aldo",
+  "contactSectionTitle": "Do you have any question for me?",
+  "contactSectionSubtitle": "Let' me know.",
   "contactSectionButtonText": "Contact Me",
   "contactSectionButtonIcon": "paperplane",
   "techsTitle": "TECHS",
@@ -23,17 +23,17 @@
   "linkedinIconName": "linkedin",
   "emailIconName": "envelope",
   "hobbies": [
-    "Writing",
+    "Hiking",
     "Camping",
-    "Coffee",
+    "Sports",
     "Music",
     "Movies",
-    "Board Games"
+    "Travel"
   ],
-  "pageTitle": "NeonMint by | Fernando Lopez | EFEELE",
-  "pageDescription": "Is a modern, minimalist template crafted for developers and digital creatives.",
+  "pageTitle": "My Portfolio | Aldo Mancilla ",
+  "pageDescription": "a curated showcase of my work, skills, and creative journey.",
   "OGImage": {
     "url": "/images/imagedefault.webp",
-    "alt": "Screenshot of a web portfolio with a modern and dark design. Featuring Fernando López, a Frontend Developer with 8 years of experience, highlighting his passion for development and technology. Includes contact sections, projects, and a technology stack with technologies like HTML5, JavaScript, TypeScript, Angular, Node.js, CSS, Tailwind, and more."
+    "alt": "Screenshot of a web portfolio with a modern and dark design. Featuring Aldo Mancilla, a Frontend Developer with 10+ years of experience, highlighting his passion for development and technology. Includes contact sections, projects, and a technology stack with technologies like HTML5, JavaScript, Angular,HTML5, CSS and more."
   }
 }
