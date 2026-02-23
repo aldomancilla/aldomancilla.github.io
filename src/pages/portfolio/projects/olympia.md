@@ -15,6 +15,10 @@ Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on sp
 
 ## 🧩 Features
 
+- Multiple product variants, and checkout hints
+- Navigation menu with product categories (by type or technology).
+- Product listings with multiple variants based on size and price.
+- Shopping cart / “Add to Cart” option.
 - Responsive and minimalist design
 - Clean and reusable UI components
 - Secure Enviroment for bank transactions
@@ -29,6 +33,7 @@ Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on sp
 - PHP
 - Wordpress
 - WooCommerce
+- Amazon Elastic Compute Cloud (Amazon EC2)
 
 
 ## 🌐 Live

@@ -2,17 +2,17 @@
   "profileImage": "/images/efeeleprofile.webp",
   "profileAlt": "Photo of Aldo I. Mancilla Huertas",
   "profileLink": "/about-me",
-  "profileTitle": "FrontEnd Developer",
+  "profileTitle": "Web & Software Developer",
   "profileName": "Aldo Mancilla",
   "github": "https://github.com/aldomancilla",
-  "githubText": "Do you like this portfolio's design?",
+  "githubText": "Do you want to visit my github profile?",
   "portfolioImage": "/images/portfolio.webp",
   "email": "aldomancilla@gmail.com",
   "linkedin": "https://www.linkedin.com/in/aldo-mancilla/",
   "instagram": "https://www.instagram.com/aldomancilla/",
-  "youtube": "https://www.facebook.com/aldo.mancilla.gt",
-  "alias": "Aldo",
-  "contactSectionTitle": "Do you have any question for me?",
+  "facebook": "https://www.facebook.com/aldo.mancilla.gt",
+  "alias": "Aldo Mancilla",
+  "contactSectionTitle": "Do you want to send me a message?",
   "contactSectionSubtitle": "Let' me know.",
   "contactSectionButtonText": "Contact Me",
   "contactSectionButtonIcon": "paperplane",
@@ -25,15 +25,16 @@
   "hobbies": [
     "Hiking",
     "Camping",
-    "Sports",
+    "Basketball",
     "Music",
     "Movies",
+    "Mountain Bike",
     "Travel"
   ],
   "pageTitle": "My Portfolio | Aldo Mancilla ",
   "pageDescription": "a curated showcase of my work, skills, and creative journey.",
   "OGImage": {
     "url": "/images/imagedefault.webp",
-    "alt": "Screenshot of a web portfolio with a modern and dark design. Featuring Aldo Mancilla, a Frontend Developer with 10+ years of experience, highlighting his passion for development and technology. Includes contact sections, projects, and a technology stack with technologies like HTML5, JavaScript, Angular,HTML5, CSS and more."
+    "alt": "Screenshot of a web portfolio with a modern and dark design. Featuring Aldo Mancilla, a Web and Software Developer with 10+ years of experience, highlighting his passion for development and technology. Includes contact sections, projects, and a technology stack with technologies like HTML5, JavaScript, Angular,HTML5, CSS and more."
   }
 }

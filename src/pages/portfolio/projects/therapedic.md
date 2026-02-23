@@ -34,7 +34,7 @@ With a minimalist and modern design, this project is a functional e-commerce pla
 - PHP
 - Wordpress
 - WooCommerce
-- Amazon EC2
+- Amazon Elastic Compute Cloud (Amazon EC2)
 
 
 ## 🌐 Live
