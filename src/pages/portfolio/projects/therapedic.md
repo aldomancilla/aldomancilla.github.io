@@ -9,15 +9,20 @@ image:
   alt: "Thumbnail of Camas Therapedic."
 --- 
 
-**Camas Olympia** is a modern, minimalist ecommerce site created for me. This project is functional regional e-commerce platform, with diferent paymants methods in Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica.
+**Camas Therapedic** Is a commercial e-commerce website where visitors can browse and purchase mattresses, bed sets, pillows, protectors, and other sleep products directly from the platform.
 
-Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on speed, modularity, and a component-centered architecture.
+With a minimalist and modern design, this project is a functional e-commerce platform working in Honduras and Guatemala, with diferent paymants methods in each coutry.
 
 ## 🧩 Features
 
 - Responsive and minimalist design
 - Clean and reusable UI components
 - Secure Enviroment for bank transactions
+- Multiple product variants, and checkout hints
+- Navigation menu with product categories (by type or technology).
+- Product listings with multiple variants based on size and price.
+- Shopping cart / “Add to Cart” option.
+- Inclusion of product option selection mechanisms
 - Modern typography and clear visual hierarchy
 
 
@@ -29,9 +34,10 @@ Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on sp
 - PHP
 - Wordpress
 - WooCommerce
+- Amazon EC2
 
 
 ## 🌐 Live
 
-👉 [View live demo](https://camasolympiaonline.com/gt/) 
+👉 [View live demo](https://camastherapedic.com/) 
 

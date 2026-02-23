@@ -8,11 +8,20 @@ import icon from "astro-icon";
 // https://astro.build/config
 export default defineConfig({
   site: "https://aldomancilla.github.io",
-  integrations: [preact(), icon(), sitemap({
-    filter: (page) =>
-      !page.includes("/blog/tags") &&
-      !page.includes("/blog/techs"),
-  }),],
+
+  devToolbar: {
+    enabled: false,
+  },
+
+  integrations: [
+    preact(),
+    icon(),
+    sitemap({
+      filter: (page) =>
+        !page.includes("/blog/tags") &&
+        !page.includes("/blog/techs"),
+    }),
+  ],
 
   vite: {
     plugins: [tailwindcss()],
