@@ -1,28 +1,29 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
 title: 'Camas Olympia'
-pubDate: 2023-01-02
+pubDate: 2024-10-10
 description: 'Is an ecommerce site in Guatemala and Central America, with diferent payment methods.'
-languages: ["wordpress", "html5", "css", "javascript", "php"]
+languages: ["wordpress", "html5", "css", "javascript", "php", "github"]
 image:
   url: "/images/projects/olympia.webp"
   alt: "Thumbnail of Camas Olympia."
 --- 
 
-**Camas Olympia** is a modern, minimalist ecommerce site created for me. This project is functional regional e-commerce platform, with diferent paymants methods in Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica.
+**Camas Olympia** is a modern, minimalist commercial e-commerce website where visitors can browse and purchase mattresses, bed sets, pillows, protectors, and other sleep products directly from the platform. This project is a functional regional e-commerce platform with different payment methods in Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica.
 
-Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on speed, modularity, and a component-centered architecture.
+With a mobile-first, modern design, this project is a functional e-commerce platform operating in Central America, with different payment methods in each country.
+
 
 ## 🧩 Features
 
-- Multiple product variants, and checkout hints
+- Multiple product variants and checkout hints.
 - Navigation menu with product categories (by type or technology).
 - Product listings with multiple variants based on size and price.
 - Shopping cart / “Add to Cart” option.
-- Responsive and minimalist design
-- Clean and reusable UI components
-- Secure Enviroment for bank transactions
-- Modern typography and clear visual hierarchy
+- Responsive and minimalist design.
+- Clean and reusable UI components.
+- Secure Environment for bank transactions.
+- Modern typography and clear visual hierarchy.
 
 
 ## 💡 Technologies used

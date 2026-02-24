@@ -1,7 +1,7 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
 title: 'Camas Therapedic'
-pubDate: 2023-01-02
+pubDate: 2024-06-11
 description: 'Is an ecommerce site in Guatemala and Honduras, with diferent payment methods.'
 languages: ["html5", "css", "javascript", "php", "wordpress"]
 image:
