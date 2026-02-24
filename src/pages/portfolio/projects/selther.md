@@ -9,7 +9,7 @@ image:
   alt: "Thumbnail of Selther Cr."
 --- 
 
-**Serta Centroamérica** is a modern, minimalist commercial e-commerce website where visitors can browse and purchase mattresses, bed sets, pillows, protectors, and other sleep products directly from the platform. This project is a functional regional e-commerce platform with different payment methods in Costa Rica.
+**Selther CR** is a modern, minimalist commercial e-commerce website where visitors can browse and purchase mattresses, bed sets, pillows, protectors, and other sleep products directly from the platform. This project is a functional regional e-commerce platform with different payment methods in Costa Rica.
 
 With a mobile-first, modern design, this project is a functional e-commerce, with different payment methods in Costa Rica.
 

@@ -27,5 +27,5 @@ image:
 
 ## 🌐 Live
 
-👉 [View live demo](https://aldomancilla.github.io/wdd231/project/solutions.html) 
+👉 [View live demo](https://aldomancilla.github.io/wdd231/project/index.html) 
 

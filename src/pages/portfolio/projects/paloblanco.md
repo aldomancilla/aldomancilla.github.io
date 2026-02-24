@@ -9,7 +9,7 @@ image:
   alt: "Thumbnail of Palo Blanco Builders."
 --- 
 
-Palo Blanco Builders is a modern, minimalist, and responsive website. This project serves as a functional brand platform for a construction services company based in Utah, USA.
+**Palo Blanco Builders** is a modern, minimalist, and responsive website. This project serves as a functional brand platform for a construction services company based in Utah, USA.
 
 ## 🧩 Features
 
