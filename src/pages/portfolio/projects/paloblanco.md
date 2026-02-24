@@ -9,14 +9,10 @@ image:
   alt: "Thumbnail of Palo Blanco Builders."
 --- 
 
-**Serta Centroamérica** is a modern, minimalist ecommerce site. This project is functional regional e-commerce platform, with diferent paymants methods in Guatemala, El Salvador, Honduras, Nicaragua and Costa Rica.
+Palo Blanco Builders is a modern, minimalist, and responsive website. This project serves as a functional brand platform for a construction services company based in Utah, USA.
 
 ## 🧩 Features
 
-- Multiple product variants, and checkout hints
-- Navigation menu with product categories (by type or technology).
-- Product listings with multiple variants based on size and price.
-- Shopping cart / “Add to Cart” option.
 - Responsive and minimalist design
 - Clean and reusable UI components
 - Secure Enviroment for bank transactions
@@ -30,8 +26,6 @@ image:
 - JavaScript
 - PHP
 - Wordpress
-- WooCommerce
-- Amazon Elastic Compute Cloud (Amazon EC2)
 
 
 ## 🌐 Live

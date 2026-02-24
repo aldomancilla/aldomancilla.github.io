@@ -9,7 +9,7 @@ image:
   alt: "Thumbnail of OCEAN POLLUTION."
 --- 
 
-**OCEAN POLLUTION AWARENESS** is a modern, responsive website. This project is a website developed for a software development company that created software for companies to do business with their customers and suppliers while integrating with accounting.
+**OCEAN POLLUTION AWARENESS** This is a heartfelt project I am deeply passionate about. My goal is to create meaningful change in the health of our oceans and address the issue of pollution. I believe that together, we can raise awareness and support our planet through this initiative.
 
 ## 🧩 Features
 

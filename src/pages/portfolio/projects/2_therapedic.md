@@ -11,16 +11,16 @@ image:
 
 **Camas Therapedic** Is a commercial e-commerce website where visitors can browse and purchase mattresses, bed sets, pillows, protectors, and other sleep products directly from the platform.
 
-With a minimalist and modern design, this project is a functional e-commerce platform working in Honduras and Guatemala, with diferent paymants methods in each coutry.
+With a minimalist, modern design, this project is a functional e-commerce platform operating in Honduras and Guatemala, with different payment methods in each country.
 
 ## 🧩 Features
 
 - Responsive and minimalist design
 - Clean and reusable UI components
-- Secure Enviroment for bank transactions
-- Multiple product variants, and checkout hints
-- Navigation menu with product categories (by type or technology).
-- Product listings with multiple variants based on size and price.
+- Secure Environment for bank transactions
+- Multiple product variants and checkout hints
+- Navigation menu with product categories (by type or technology)
+- Product listings with multiple variants based on size and price
 - Shopping cart / “Add to Cart” option.
 - Inclusion of product option selection mechanisms
 - Modern typography and clear visual hierarchy

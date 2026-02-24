@@ -9,13 +9,13 @@ image:
   alt: "Thumbnail of AEN GT."
 --- 
 
-**AEN GT** is a modern, responsive website. This project is a website developed for a software development company that created software for companies to do business with their customers and suppliers while integrating with accounting.
+**AEN GT** is a modern, responsive website. This project is a website developed for a software development company that created software for companies to conduct business with their customers and suppliers while integrating with accounting systems.
 
 ## 🧩 Features
 
 - Responsive and minimalist design
 - Clean and reusable UI components
-- Secure Enviroment for bank transactions
+- Secure Environment for bank transactions
 - Modern typography and clear visual hierarchy
 
 
