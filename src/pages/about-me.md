@@ -24,7 +24,7 @@ This blend of technical skill and creative insight allows me to connect design a
 Even after more than a decade in development, I remain motivated by a sense of curiosity and empathy for the users I serve. I recognize that technology is constantly evolving, and I embrace the opportunity to grow alongside it — learning, experimenting, and striving to improve every day in order to better meet the needs of those around me.
 
 
-## A Bit More About Me ☕
+## A Bit More About Me 🚵🏻 🏀 ⛰
 
 I deeply believe that inspiration often comes from the world around us, especially through movement, nature, and the meaningful moments we share. Climbing volcanoes has become a personal passion of mine. There's something truly uplifting about standing above the clouds after a tough hike. It serves as a powerful reminder that growth often requires hard work and determination, a sentiment I think resonates with many of us.
 
